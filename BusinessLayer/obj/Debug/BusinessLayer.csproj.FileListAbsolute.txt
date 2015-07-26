@@ -1,0 +1,12 @@
+c:\users\usuario\documents\visual studio 2013\Projects\TuEntradaVirtual\BusinessLayer\bin\Debug\BusinessLayer.dll
+c:\users\usuario\documents\visual studio 2013\Projects\TuEntradaVirtual\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\TuEntradaVirtual\BusinessLayer\bin\Debug\ClassLibrary1.dll
+c:\users\usuario\documents\visual studio 2013\Projects\TuEntradaVirtual\BusinessLayer\bin\Debug\Entities.dll
+c:\users\usuario\documents\visual studio 2013\Projects\TuEntradaVirtual\BusinessLayer\bin\Debug\EntityFramework.dll
+c:\users\usuario\documents\visual studio 2013\Projects\TuEntradaVirtual\BusinessLayer\bin\Debug\ClassLibrary1.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\TuEntradaVirtual\BusinessLayer\bin\Debug\Entities.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\TuEntradaVirtual\BusinessLayer\bin\Debug\EntityFramework.xml
+c:\users\usuario\documents\visual studio 2013\Projects\TuEntradaVirtual\BusinessLayer\bin\Debug\es\EntityFramework.resources.dll
+c:\users\usuario\documents\visual studio 2013\Projects\TuEntradaVirtual\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2013\Projects\TuEntradaVirtual\BusinessLayer\obj\Debug\BusinessLayer.dll
+c:\users\usuario\documents\visual studio 2013\Projects\TuEntradaVirtual\BusinessLayer\obj\Debug\BusinessLayer.pdb

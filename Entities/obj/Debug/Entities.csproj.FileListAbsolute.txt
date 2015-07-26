@@ -1,0 +1,5 @@
+c:\users\usuario\documents\visual studio 2013\Projects\TuEntradaVirtual\Entities\bin\Debug\Entities.dll
+c:\users\usuario\documents\visual studio 2013\Projects\TuEntradaVirtual\Entities\bin\Debug\Entities.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\TuEntradaVirtual\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2013\Projects\TuEntradaVirtual\Entities\obj\Debug\Entities.dll
+c:\users\usuario\documents\visual studio 2013\Projects\TuEntradaVirtual\Entities\obj\Debug\Entities.pdb
