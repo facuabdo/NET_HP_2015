@@ -43,7 +43,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\DataLayer.csproj">
+    <ProjectReference Include="..\DataLayer\DataLayer.csproj">
       <Project>{0da1ccc3-18ca-4a5c-bc1e-18184c7f2257}</Project>
       <Name>DataLayer</Name>
     </ProjectReference>
