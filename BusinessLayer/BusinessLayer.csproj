@@ -40,7 +40,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EventsBL.cs" />
+    <Compile Include="EventTicketTypesBL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TicketsBL.cs" />
+    <Compile Include="TicketTypesBL.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataLayer\DataLayer.csproj">
