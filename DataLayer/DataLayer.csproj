@@ -49,11 +49,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EventsDAL.cs" />
-    <Compile Include="EventTicketTypesDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TEVEntityModel.cs" />
-    <Compile Include="TicketsDAL.cs" />
-    <Compile Include="TicketTypesDAL.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
